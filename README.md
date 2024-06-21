@@ -57,14 +57,7 @@ email-automation-bot/
 │   ├── sent.log       # Log file for sent emails
 │   └── error.log      # Log file for errors
 └── README.md          # Project readme file
-Example
-Here’s an example of how the emails.xlsx file should look:
 
-Name	      Email	            Subject	        Message
-John Doe	  john@example.com	Hello John	    Hi John, How are you?
-Jane Smith	jane@example.com	Greetings Jane	Hello Jane, What's up?
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
